@@ -4,9 +4,11 @@ h1{
 }
 
 p{
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 a{
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
